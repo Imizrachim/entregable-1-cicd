@@ -51,3 +51,5 @@ ${{ secrets.NOMBRE_DEL_SECRETO }}
 ### Reflexión
 
 **Mateo Muñoz:** Teniendo en cuenta que en mi trabajo, como política general se usa Jenkins para todos los ambientes, el uso de GitHub Actions se podría implementar en las ramas feature, ya que actualmente los flujos de los pipelines solo se ejecutan cuando se hace un PR a las ramas principales, pero no se hace con los cambios dentro de las feature. Esto podría facilitar una capa adicional de detección de vulnerabilidades, buenas prácticas de código, verificación de pruebas incluso antes de que lleguen a la rama de desarrollo.
+
+**Ioav Mizrachi:** En mi caso, teniendo en cuenta que actualmente me dedico sobre todo al desarrollo de proyectos propios, el uso de GitHub Actions se podría implementar para automatizar la validación del código en mis repositorios, ejecutando pruebas y verificaciones cada vez que implemento nuevos cambios. Esto permitiría detectar posibles errores y vulnerabilidades antes de integrar las actualizaciones, manteniendo buenas prácticas y un estándar profesional en mi portafolio.
